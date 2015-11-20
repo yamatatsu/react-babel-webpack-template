@@ -1,0 +1,30 @@
+{
+  "name": "react-babel",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "react": "^0.13.3"
+  },
+  "devDependencies": {
+    "babel-core": "^6.0.12",
+    "babel-loader": "^6.0.1",
+    "babel-preset-es2015": "^6.0.12",
+    "babel-preset-react": "^6.0.15",
+    "webpack": "^1.12.1"
+  },
+  "scripts": {
+    "start": "webpack-dev-server --progress --colors",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yamatatsu/react-babel.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/yamatatsu/react-babel/issues"
+  },
+  "homepage": "https://github.com/yamatatsu/react-babel#readme"
+}
