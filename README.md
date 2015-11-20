@@ -1,4 +1,4 @@
-# react-babel
+# react-babel-webpack-template
 
 ## start
 ### install package
