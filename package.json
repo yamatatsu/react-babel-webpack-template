@@ -1,5 +1,5 @@
 {
-  "name": "react-babel",
+  "name": "react-babel-webpack-template",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -14,17 +14,16 @@
     "webpack": "^1.12.1"
   },
   "scripts": {
-    "start": "webpack-dev-server --progress --colors",
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "webpack-dev-server --progress --colors"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/yamatatsu/react-babel.git"
+    "url": "git+https://github.com/yamatatsu/react-babel-webpack-template.git"
   },
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/yamatatsu/react-babel/issues"
+    "url": "https://github.com/yamatatsu/react-babel-webpack-template/issues"
   },
-  "homepage": "https://github.com/yamatatsu/react-babel#readme"
+  "homepage": "https://github.com/yamatatsu/react-babel-webpack-template#readme"
 }
